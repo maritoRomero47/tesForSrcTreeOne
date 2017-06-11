@@ -2,6 +2,6 @@ this is the first file of the test for SourceTree repo number One
 One -> first change
 Two -> second change US002
 Three -> third change US001
-Four
+Four -> fourth change US002
 Five
 Six
